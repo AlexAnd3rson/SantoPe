@@ -106,8 +106,8 @@ As Regras de Negócio definem políticas, restrições e cálculos operacionais 
 
 | Código | Nome da Regra | Descrição / Fórmula de Aplicação |
 | :--- | :--- | :--- |
-| **RN001** | Desconto por Volume | Compras acima de R$ 500,00 recebem desconto automático de 10% no valor total dos produtos. |
-| **RN002** | Política de Cancelamento | O cancelamento do pedido sem taxa só é permitido até 24 horas antes do envio programado. |
+| **RN001** | Dados do cliente | Compras acima de R$ 500,00 recebem desconto automático de 10% no valor total dos produtos. |
+| **RN002** | Dados do pedido | O cancelamento do pedido sem taxa só é permitido até 24 horas antes do envio programado. |
 | **RN003** | Validação de CPF/CNPJ | Todo cadastro de cliente pessoa física ou jurídica deve conter um documento válido com verificação de dígitos verificadores. |
 | **RN004** | Expiração de Senha | A senha dos usuários administradores deve ser alterada obrigatoriamente a cada 90 dias. |
 
